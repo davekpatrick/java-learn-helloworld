@@ -6,7 +6,7 @@
 #BOF
 # ---------------------------------------------------
 # Product: Oracle Java
-# doc: https://github.com/github/gitignore/blob/main/Java.gitignore
+# src: https://github.com/github/gitignore/blob/main/Java.gitignore
 # ---------------------------------------------------
 # Compiled class file
 *.class
